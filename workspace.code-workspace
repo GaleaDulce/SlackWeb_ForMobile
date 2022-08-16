@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../pruebaSCSS"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../mozaBar"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "slack Challenge"
+	}
+}
